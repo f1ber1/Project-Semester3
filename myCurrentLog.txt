@@ -1,0 +1,17 @@
+commit e570e35aa5f6b03c65fac7ba3d15cf00d7330e1f
+Author: f1ber1 <976559217a@gmail.com>
+Date:   Mon Mar 17 11:48:17 2025 +0800
+
+    Added ex5.py and ex6.py
+
+commit 0a47149129ba7e58b58150db969e88929d7741ab
+Author: f1ber1 <976559217a@gmail.com>
+Date:   Mon Mar 17 11:28:00 2025 +0800
+
+    Added 4 python codes
+
+commit 1e332482b6efd8e55db1d5ad095a5f9186b9a3cf
+Author: f1ber1 <127948518+f1ber1@users.noreply.github.com>
+Date:   Mon Mar 17 11:11:10 2025 +0800
+
+    Initial commit
